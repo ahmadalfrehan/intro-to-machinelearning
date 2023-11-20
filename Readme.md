@@ -5,7 +5,6 @@ learning model. The backend is powered by FastAPI, and the machine learning mode
 Python.
 
 ## Machine Learning Model
-
 The machine learning model used for house price prediction is available in the following GitHub
 repository:
 
